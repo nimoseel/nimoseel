@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- 이메일, 블로그 -->
+<!-- 스택 뱃지 -->
+#EA4335
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fromnimos@gmail.com)](mailto:fromnimos@gmail.com)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimoseel&show_icons=true&theme=merko)
