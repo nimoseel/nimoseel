@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ### Contact
-[![Github Badge](https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/nimoseel)]()
+[![Github Badge](https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/nimoseel)](link=https://github.com/nimoseel)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fromnimos@gmail.com)](mailto:fromnimos@gmail.com)
 ____
 
