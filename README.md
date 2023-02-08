@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 #EA4335
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fromnimos@gmail.com)](mailto:fromnimos@gmail.com)
+<br/><br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimoseel&show_icons=true&theme=merko)
