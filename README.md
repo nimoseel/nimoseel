@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 <!--
 **nimoseel/nimoseel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,21 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- 이메일, 블로그 -->
-<!-- 스택 뱃지 -->
+
 ### Contact
+[![Github Badge](https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/nimoseel)](mailto:fromnimos@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fromnimos@gmail.com)](mailto:fromnimos@gmail.com)
 ____
 <br/><br/>
 ### Skills
-![HTML](https://img.shields.io/badge/-Html-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-css-blue?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-react-61DBFB?style=for-the-badge&logo=react&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-ff69b4?style=for-the-badge&logo=sass&logoColor=white)
-![tailwindcss](https://img.shields.io/badge/-tailwindcss-18B8B9?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![git](https://img.shields.io/badge/-git-gray?style=for-the-badge&logo=git&logoColor=white)
+![HTML](https://img.shields.io/badge/-Html5-e34c26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-typescript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-react-61DBFB?style=flat-square&logo=react&logoColor=white)
+<br/>
+![CSS](https://img.shields.io/badge/-css-1A6DB1?style=flat-square&logo=css3&logoColor=white)
+![styled component](https://img.shields.io/badge/-styled%20component-FF8C8E?style=flat-square&logo=styledcomponents&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-ff69b4?style=flat-square&logo=sass&logoColor=white)
+![tailwindcss](https://img.shields.io/badge/-tailwindcss-18B8B9?style=flat-square&logo=tailwindcss&logoColor=white)
+<br/>
+![bootstrap](https://img.shields.io/badge/-bootstrap-7010EF?style=flat-square&logo=bootstrap&logoColor=white)
+![git](https://img.shields.io/badge/-git-E94E31?style=flat-square&logo=git&logoColor=white)
+![notion](https://img.shields.io/badge/-notion-black?style=flat-square&logo=notion&logoColor=white)
+![figma](https://img.shields.io/badge/-figma-white?style=flat-square&logo=figma)
 ____
 <br/><br/>
 ### GitHub Status
