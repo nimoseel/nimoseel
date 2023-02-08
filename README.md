@@ -1,4 +1,3 @@
-### Hi there 👋 
 
 <!--
 **nimoseel/nimoseel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,14 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-### Contact
+<div align='center'>
+  
+#### 📌 Contact             
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fromnimos@gmail.com)](mailto:fromnimos@gmail.com)
 ____
 
-<br/>
-
-### Skills
+#### 📌 Skills
 ![HTML](https://img.shields.io/badge/-Html5-e34c26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-typescript-3178c6?style=flat-square&logo=typescript&logoColor=white)
@@ -39,7 +37,8 @@ ____
 ![figma](https://img.shields.io/badge/-figma-white?style=flat-square&logo=figma)
 ____
 
-<br/>
-
-### GitHub Status
+#### 📌 GitHub Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimoseel&show_icons=true&theme=merko)
+
+</div>
+  
