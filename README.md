@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 
 
 ### Contact
-[![Github Badge](https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/nimoseel)](mailto:fromnimos@gmail.com)
+[![Github Badge](https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/nimoseel)]()
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fromnimos@gmail.com)](mailto:fromnimos@gmail.com)
 ____
-<br/><br/>
+
+<br/>
+
 ### Skills
 ![HTML](https://img.shields.io/badge/-Html5-e34c26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white)
@@ -37,6 +39,8 @@ ____
 ![notion](https://img.shields.io/badge/-notion-black?style=flat-square&logo=notion&logoColor=white)
 ![figma](https://img.shields.io/badge/-figma-white?style=flat-square&logo=figma)
 ____
-<br/><br/>
+
+<br/>
+
 ### GitHub Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimoseel&show_icons=true&theme=merko)
