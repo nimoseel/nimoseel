@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 ____
 
 #### 📌 Skills
-![HTML](https://img.shields.io/badge/-HTML5-e34c26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML%20Living%20standard-e34c26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript(ES6)-f7df1e?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=flat-square&logo=react&logoColor=white)
 <br/>
-![CSS](https://img.shields.io/badge/-CSS-1A6DB1?style=flat-square&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1A6DB1?style=flat-square&logo=css3&logoColor=white)
 ![styled component](https://img.shields.io/badge/-styled%20components-FF8C8E?style=flat-square&logo=styledcomponents&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-ff69b4?style=flat-square&logo=sass&logoColor=white)
 ![tailwindcss](https://img.shields.io/badge/-tailwindcss-18B8B9?style=flat-square&logo=tailwindcss&logoColor=white)
