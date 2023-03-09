@@ -30,13 +30,15 @@ ____
 ![styled component](https://img.shields.io/badge/-styled%20components-FF8C8E?style=flat-square&logo=styledcomponents&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-ff69b4?style=flat-square&logo=sass&logoColor=white)
 ![tailwindcss](https://img.shields.io/badge/-tailwindcss-18B8B9?style=flat-square&logo=tailwindcss&logoColor=white)
-<br/>
 ![bootstrap](https://img.shields.io/badge/-Bootstrap-7010EF?style=flat-square&logo=bootstrap&logoColor=white)
+____
+#### 📌 Tools
 ![git](https://img.shields.io/badge/-git-E94E31?style=flat-square&logo=git&logoColor=white)
+![github](https://img.shields.io/badge/-github-181717?style=flat-square&logo=git&logoColor=white)
 ![notion](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion&logoColor=white)
 ![figma](https://img.shields.io/badge/-Figma-white?style=flat-square&logo=figma)
-____
 
+_____
 #### 📌 GitHub Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimoseel&show_icons=true&theme=merko)
 
